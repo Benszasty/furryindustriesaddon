@@ -1,0 +1,17 @@
+abbreviation: AT
+available: false
+classes: 544
+colour: 240
+id: 1
+label: ATOY
+longName: adult toys
+name: Adult Toys
+penaltyLength: 116
+penaltyLowerBound: 4
+price: 6991
+sprite:
+  filename: cargoes/adult-toys.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 6

@@ -1,0 +1,17 @@
+abbreviation: FS
+available: false
+classes: 544
+colour: 1
+id: 0
+label: FRST
+longName: fursuits
+name: Fursuits
+penaltyLength: 112
+penaltyLowerBound: 0
+price: 12336
+sprite:
+  filename: cargoes/fursuits.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 2
